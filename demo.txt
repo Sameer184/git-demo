@@ -3,3 +3,6 @@ what are you doing?
 how are you?
 changed made recently from master branch
 changes made from new_branch1
+Content of new branch
+line7 //branch3
+line8 //branch3
